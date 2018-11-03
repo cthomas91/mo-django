@@ -74,3 +74,5 @@ Go write beautiful code.
 Install requirements:
 
 	pipenv install --dev --python 3.6
+
+  Taylor Thomas 
